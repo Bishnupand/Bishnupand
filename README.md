@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bishnupandey 
 - 👀 I’m interested in computational physics
 - 🌱 I’m currently learning machine learning and neural networks
-- 💞️ I’m looking to collaborate on study of solid state physics
 - 📫 How to reach me .
 
 <!---
